@@ -1,6 +1,6 @@
 # Website-over-mij
-## Week 1
-## Dag 2
+## **Week 1**
+## *Dag 2*
 ### Check-out
 **Wat heb ik vandaag gedaan**
 Ik heb vandaag de api werkend gekregen, zodat mijn naam en andere data zichtbaar is in de html. 
