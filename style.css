@@ -1,4 +1,12 @@
 * {
     padding: 0;
     margin: 0;
+    background: #F3E9DC
 }
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
