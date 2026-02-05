@@ -14,8 +14,5 @@ console.log(personInfo.data.name)
 
 const header = document.querySelector('header')
 
-header.innerHTML =  `<h1>${personInfo.data.name}</h1>
-<h2>${personInfo.data.nickname}</h2>
-<h2>${personInfo.data.birthdate}</h2>`
-
+header.insertAdjacentHTML("beforeend", `<h1>${personInfo.data.nickname}</h1>`);
 }

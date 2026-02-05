@@ -1,12 +1,73 @@
+@font-face {
+    font-family: "Pacifico";
+    src: url("fonts/Pacifico.woff2") format("woff2"); /* https://www.fontsquirrel.com/fonts/pacifico */
+    src: url("fonts/Pacifico.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 * {
     padding: 0;
     margin: 0;
     background: #F3E9DC
 }
 
-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+html {
+    scroll-snap-type: y mandatory;
 }
 
+header {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #16b9fa;
+    background: radial-gradient(circle,rgba(22, 185, 250, 1) 0%, rgba(62, 154, 230, 1) 17%, rgba(28, 75, 232, 1) 34%, rgba(39, 80, 230, 1) 52%, rgba(106, 130, 230, 1) 69%, rgba(81, 172, 232, 1) 84%, rgba(34, 132, 230, 1) 100%);
+    background-size: 300% 300%;
+    animation: moveGradient 5s ease infinite;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+}
+
+@keyframes moveGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+
+
+h1 {
+    font-family: "Pacifico", Arial, Helvetica, sans-serif;
+    font-size: 4em;
+    background-color: transparent;
+}
+
+h2 {
+    background: transparent;
+}
+
+main {
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+}
+
+.motor-section {
+    width: 100%;
+    height: 100%;
+}
+
+.motor-section img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+section:nth-of-type(1) {
+    width: 100vw;
+    height: 100vh;
+
+}
