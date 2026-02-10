@@ -66,6 +66,71 @@ main {
     object-fit: cover;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container img:nth-child(odd) {
+    align-self: flex-start;
+}
+
+.container img:nth-child(even) {
+    align-self: flex-end;
+}
+
+.container p:nth-child(odd) {
+    align-self: flex-end;
+}
+
+.container p:nth-child(even) {
+    align-self: flex-start;
+}
+
+.container img {
+    width: 270px;
+    height: auto;
+    margin-bottom: 3em;
+}
+
+.reizen-section {
+    position: relative;
+    min-height: 200vh;
+}
+
+.auto-img {
+    position: absolute;
+    background-color: transparent;
+    z-index: 10;
+    left: 10%;
+    width: 150px;
+    height: auto;
+    margin-bottom: 0;
+}
+
+
+    .auto-img {
+        animation-name: moveCar;
+        animation-timeline: view();
+        animation-range: entry cover;
+        animation-fill-mode: both;
+    }
+
+
+@keyframes moveCar {
+    0% {
+        top: 10%;
+    }
+    30% {
+        top: 25%;
+        left: 40%;
+    }
+}    
+
+.reizen-section h2 {
+    margin-bottom: 2em;
+}
+
 section:nth-of-type(1) {
     width: 100vw;
     height: 100vh;
