@@ -112,8 +112,11 @@ main {
     .auto-img {
         animation-name: moveCar;
         animation-timeline: view();
-        animation-range: entry cover;
+        animation-range: contain cover;
         animation-fill-mode: both;
+        border: 1px solid teal;
+        position: sticky;
+        top: 50%;
     }
 
 
@@ -121,9 +124,22 @@ main {
     0% {
         top: 10%;
     }
-    30% {
+    30%, 70% {
         top: 25%;
         left: 40%;
+    }
+    25% {
+        left: 10%;
+    }
+    43% {
+        left: 40%;
+    }
+    50% {
+        left: 10%;
+
+    }
+    100% {
+        top: 50%;
     }
 }    
 
@@ -135,4 +151,8 @@ section:nth-of-type(1) {
     width: 100vw;
     height: 100vh;
 
+}
+
+.wingdingsModus * {
+    font-family: "wingdings", symbol;
 }

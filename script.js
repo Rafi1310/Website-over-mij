@@ -16,3 +16,16 @@ const header = document.querySelector('header')
 
 header.insertAdjacentHTML("beforeend", `<h1>${personInfo.data.nickname}</h1>`);
 }
+
+
+const output = document.body;
+
+document.addEventListener('keydown', logToets);
+
+function logToets(event) {
+    const deToets = event.key
+    if(deToets === 'p') {
+        document.body.classList.toggle('wingdingsModus');
+        console.log("wingdings geactiveerd")
+    }
+}
