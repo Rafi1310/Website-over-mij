@@ -37,3 +37,20 @@ Ook heb ik geleerd dat als iets makkelijk lijkt, het niet persé makkelijk is. N
 
 Morgen ga ik zorgen dat de rest van de html erin staat voor de eerste oplevering. 
 
+## *Dag 6 (10 februari 2026)*
+### Check-out (met Joost)
+**Wat heb ik vandaag gedaan**
+
+Zorgen dat de animatie van het reizen werkt en een easteregg toegevoegd. Dit is als je op de letter 'p' drukt dat het font "wingdings" word. 
+
+**Hoeveel tijd heeft dat mij gekost**
+
+De hele les. De animatie wilde maar niet meewerken. Zorgen dat de keyboard toets werkt ging best wel makkelijk.
+
+**Wat heb ik geleerd**
+
+Ik heb geleerd hoe ik met behulp van een toets indrukken dat ik iets kan veranderen. Ook weet ik nu hoe ik een plaatje kan laten bewegen met een scroll, ookal is het nog steeds een beetje vaag. 
+
+**Wat ga ik morgen doen**
+
+Zorgen dat m'n website klaar is. Ik moet nog m'n leerdoelen toevoegen en ook ervoor zorgen dat ik een minorgenoot toevoeg aan m'n website. 
