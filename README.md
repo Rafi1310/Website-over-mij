@@ -54,3 +54,20 @@ Ik heb geleerd hoe ik met behulp van een toets indrukken dat ik iets kan verande
 **Wat ga ik morgen doen**
 
 Zorgen dat m'n website klaar is. Ik moet nog m'n leerdoelen toevoegen en ook ervoor zorgen dat ik een minorgenoot toevoeg aan m'n website. 
+
+## *Dag 6 (11 februari 2026)*
+### Check-out (met Senna)
+**Wat heb ik vandaag gedaan**
+
+Ik heb vandaag er voor gezorgd dat mijn random person fucntie werkt. Ik kan hiermee een random persoon genereren en die in m'n website zetten. Ook heb ik een light en dark mode gemaakt. Ook heb ik mijn leerdoelen in m'n website gezet. 
+
+**Hoeveel tijd heeft dat mij gekost**
+
+De hele les
+
+**Wat heb ik geleerd**
+
+Ik heb geleerd dat dialog tags in de html een ding zijn. Deze helpen heel erg met een pop-up systeem. Ik dacht eerst dat dit heel veel javascript werk is, maar dat viel eigenlijk best mee hierdoor. 
+
+**Wat ga ik morgen doen**
+Presenteren
