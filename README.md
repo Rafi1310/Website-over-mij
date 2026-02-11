@@ -37,6 +37,10 @@ Ook heb ik geleerd dat als iets makkelijk lijkt, het niet persé makkelijk is. N
 
 Morgen ga ik zorgen dat de rest van de html erin staat voor de eerste oplevering. 
 
+## *Dag 5 (9 februari 2026)*
+### Check-out
+Helaas ziek deze dag
+
 ## *Dag 6 (10 februari 2026)*
 ### Check-out (met Joost)
 **Wat heb ik vandaag gedaan**
@@ -55,7 +59,7 @@ Ik heb geleerd hoe ik met behulp van een toets indrukken dat ik iets kan verande
 
 Zorgen dat m'n website klaar is. Ik moet nog m'n leerdoelen toevoegen en ook ervoor zorgen dat ik een minorgenoot toevoeg aan m'n website. 
 
-## *Dag 6 (11 februari 2026)*
+## *Dag 7 (11 februari 2026)*
 ### Check-out (met Senna)
 **Wat heb ik vandaag gedaan**
 
