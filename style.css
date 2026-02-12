@@ -41,6 +41,7 @@ header {
     animation: moveGradient 5s ease infinite;
     scroll-snap-align: start;
     scroll-snap-stop: always;
+    /*https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/scroll-snap-type*/
 }
 
 @keyframes moveGradient {
@@ -255,6 +256,7 @@ dialog form h3 {
 dialog ::backdrop {
     background-color: rgba(0, 0, 0, 0.5);
     filter: blur(16px);
+    /*https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/filter-function/blur*/
 }
 
 

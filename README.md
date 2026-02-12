@@ -37,6 +37,12 @@ Ook heb ik geleerd dat als iets makkelijk lijkt, het niet persé makkelijk is. N
 
 Morgen ga ik zorgen dat de rest van de html erin staat voor de eerste oplevering. 
 
+## Weekly check-out 1
+
+Ik ben deze week begonnen met mijn website. Ik vind dat ik goed op weg ben alleen heb een beetje een langzame start gehad. Ik ben al wel dingen bezig geweest die buiten mijn kunnen liggen. Ik ben de daily check outs wel goed gaan vinden. Ik vond het eerst een beetje stom dat het met een random persoon was, maar is toch best leuk om zo je klasgenoten te leren kennen en te zien wat ze maken.
+
+De api in de code zetten ging eigenlijk best makkelijk. Dit is omdat ik voordat de minor begon ik die extra cursussen had gevolgd. Dit bleek best te helpen. 
+
 ## *Dag 5 (9 februari 2026)*
 ### Check-out
 Helaas ziek deze dag
@@ -75,3 +81,40 @@ Ik heb geleerd dat dialog tags in de html een ding zijn. Deze helpen heel erg me
 
 **Wat ga ik morgen doen**
 Presenteren
+
+## Weekly check-out
+
+Deze week heb ik er voor gezorgd dat alles af is wat nog wel een uitdaging was. Het lastigste wat ik moest doen was toch echt de responsivenes bij de scroll animatie. 
+Waar ik wat beter in wil worden nog steeds wat niet in mijn leerdoelen stond is beter documenteren. Dan kan ik beter zien hoe ik ben verbeterd. 
+Waar ik ook achter ben gekomen is dat die daily check outs super handig zijn. Ik ben hierbij namelijk achter dingen gekomen die konden die ik niet wist dat mogelijk waren. In het begin vond ik het maar een beetje stom om het elke dag te doen, maar ik had het dus helemaal fout. 
+
+### Bronnenlijst
+Scroll animations
+https://codepen.io/collection/EPWkPM,
+
+API voor alle personen
+https://fdnd.directus.app/items/person/,
+
+Light and dark mode
+https://codepen.io/Rafi-IJssel/pen/RNRBLLa?editors=1100,
+
+Keyboard click
+https://codepen.io/shooft/pen/emzvPRa,
+
+Dialog html
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog,
+
+Blur effect
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/filter-function/blur,
+
+Hex code colors
+https://htmlcolorcodes.com/,
+
+Gradient maker
+https://cssgradient.io/,
+
+Scroll snap
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/scroll-snap-type,
+
+Svg van alle landen
+https://www.amcharts.com/svg-maps/
