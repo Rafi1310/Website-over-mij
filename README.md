@@ -110,6 +110,11 @@ Ik heb ook een easteregg toegevoegd in m'n website (want dat is gewoon grappig ;
 
 Als je wisselt van light en dark mode verandert de website. Dit doe je gewoon door je systeeminstellingen aan te passen. 
 
+<img width="340" height="524" alt="Scherm­afbeelding 2026-02-12 om 09 36 04" src="https://github.com/user-attachments/assets/2e0efdaf-3913-45df-910b-07eeb230adbb" />
+
+<img width="336" height="540" alt="Scherm­afbeelding 2026-02-12 om 09 36 51" src="https://github.com/user-attachments/assets/be573a3e-5fd1-42f6-afe8-dbff905f10de" />
+
+
 
 ### Bronnenlijst
 Scroll animations
