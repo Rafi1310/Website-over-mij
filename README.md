@@ -42,6 +42,7 @@ Morgen ga ik zorgen dat de rest van de html erin staat voor de eerste oplevering
 Ik ben deze week begonnen met mijn website. Ik vind dat ik goed op weg ben alleen heb een beetje een langzame start gehad. Ik ben al wel dingen bezig geweest die buiten mijn kunnen liggen. Ik ben de daily check outs wel goed gaan vinden. Ik vond het eerst een beetje stom dat het met een random persoon was, maar is toch best leuk om zo je klasgenoten te leren kennen en te zien wat ze maken.
 
 De api in de code zetten ging eigenlijk best makkelijk. Dit is omdat ik voordat de minor begon ik die extra cursussen had gevolgd. Dit bleek best te helpen. 
+
 <img width="681" height="458" alt="Scherm­afbeelding 2026-02-12 om 08 36 21" src="https://github.com/user-attachments/assets/29421d07-fc95-4bc4-9e70-01dc2f6ae3d8" />
 
 
@@ -87,6 +88,7 @@ Presenteren
 ## Weekly check-out
 
 Deze week heb ik er voor gezorgd dat alles af is wat nog wel een uitdaging was. Het lastigste wat ik moest doen was toch echt de responsivenes bij de scroll animatie. Dat is wel gelukt.
+
 <img width="343" height="556" alt="Scherm­afbeelding 2026-02-12 om 08 46 07" src="https://github.com/user-attachments/assets/51a86744-95ea-486e-baf4-addfb2ad1915" />
 
 <img width="718" height="553" alt="Scherm­afbeelding 2026-02-12 om 08 46 28" src="https://github.com/user-attachments/assets/42d475dd-3b51-4f90-acbc-27a26dc6460e" />
@@ -100,6 +102,7 @@ Waar ik ook achter ben gekomen is dat die daily check outs super handig zijn. Ik
 
 Deze week kwam er ook een nieuwe eis bij waarbij je iemand anders uit de api moet halen. Dit was voor mij best lastig, niet vanwege de code, maar om te bedenken hoe ik dit wil gaan doen. Ik heb er uiteindelijk voor gekozen om bij het stukje over mezelf ook iemand anders te stoppen. Het was namelijk best lastig om dit idee pas de tweede week te horen en dan al een idee hebben en dan onverwachts het moeten aanpassen. 
 Gelukkig leek de code hiervoor wel redelijk op degene die ik voor mijn eigen gegevens heb gebruikt dus de code was geen probleem. Moest er alleen een random functie aan geven.
+
 <img width="552" height="518" alt="Scherm­afbeelding 2026-02-12 om 08 49 44" src="https://github.com/user-attachments/assets/cf160de2-ee36-4938-ae78-90efb28a85ae" />
 
 
