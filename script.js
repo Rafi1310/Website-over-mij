@@ -27,9 +27,9 @@ overMij.insertAdjacentHTML("beforeend",
 getRandomName()
 
 async function getRandomName() {
-    const baseURL = 'https://fdnd.directus.app'
-    const endpoint = '/items/person'
-
+    const baseURL = 'https://fdnd.directus.app/items'
+    const endpoint = '/person?filter[squads][squad_id][tribe][name]=CMD%20Minor%20Web%20Dev&filter[squads][squad_id][cohort]=2526&sort=name&filter[fav_game][avatar][_nempty]'
+    //Endpoint met behulp van Julius
 
 const url = baseURL + endpoint
 
@@ -95,7 +95,7 @@ document.addEventListener('keydown', logToets);
 
 function logToets(event) {
     const deToets = event.key
-    if(deToets === 'p') {
+    if(deToets === 'w') {
         document.body.classList.toggle('wingdingsModus');
         console.log("wingdings geactiveerd")
     }
