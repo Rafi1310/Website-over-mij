@@ -96,7 +96,6 @@ Deze week heb ik er voor gezorgd dat alles af is wat nog wel een uitdaging was. 
 <img width="1081" height="553" alt="Scherm­afbeelding 2026-02-12 om 08 46 43" src="https://github.com/user-attachments/assets/67d1f8e0-26d0-4a65-88a5-eb391d6373a2" />
 
 
-
 Waar ik wat beter in wil worden nog steeds wat niet in mijn leerdoelen stond is beter documenteren. Dan kan ik beter zien hoe ik ben verbeterd. 
 Waar ik ook achter ben gekomen is dat die daily check outs super handig zijn. Ik ben hierbij namelijk achter dingen gekomen die konden die ik niet wist dat mogelijk waren. In het begin vond ik het maar een beetje stom om het elke dag te doen, maar ik had het dus helemaal fout. 
 
@@ -104,6 +103,12 @@ Deze week kwam er ook een nieuwe eis bij waarbij je iemand anders uit de api moe
 Gelukkig leek de code hiervoor wel redelijk op degene die ik voor mijn eigen gegevens heb gebruikt dus de code was geen probleem. Moest er alleen een random functie aan geven.
 
 <img width="552" height="518" alt="Scherm­afbeelding 2026-02-12 om 08 49 44" src="https://github.com/user-attachments/assets/cf160de2-ee36-4938-ae78-90efb28a85ae" />
+
+Ik heb ook een easteregg toegevoegd in m'n website (want dat is gewoon grappig ;) ) Ik heb er voor gezorgd dat als je de letter 'w' in typt alle fonts "wingdings" word. De website is dan niet meer te lezen, maar nog wel soort van te begrijpen door de animatie. 
+
+<img width="470" height="530" alt="Scherm­afbeelding 2026-02-12 om 09 23 34" src="https://github.com/user-attachments/assets/133b0c53-21f0-4620-a5e2-c576f99db806" />
+
+Als je wisselt van light en dark mode verandert de website. Dit doe je gewoon door je systeeminstellingen aan te passen. 
 
 
 ### Bronnenlijst
