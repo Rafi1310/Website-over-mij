@@ -136,3 +136,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/scroll-sna
 
 Svg van alle landen
 https://www.amcharts.com/svg-maps/
+
+Custom font
+https://www.fontsquirrel.com/fonts/pacifico
